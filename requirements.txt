@@ -1,1 +1,3 @@
-tensorflow\nscikit-learn\nnumpy
+tensorflow
+nscikit-learn
+nnumpy
